@@ -1,0 +1,29 @@
+.bg-container {
+  min-height: 100vh;
+  font-family: 'Roboto';
+  display: flex;
+}
+
+.events-list-container {
+  width: 60%;
+  background-color: #3a4b63;
+  padding: 30px;
+  padding-top: 10px;
+}
+
+.events-list-container > h1 {
+  color: #ffffff;
+}
+
+.events-list-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.registration-status {
+  width: 40%;
+  padding: 30px;
+}

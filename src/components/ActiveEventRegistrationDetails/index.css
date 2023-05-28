@@ -1,0 +1,66 @@
+.none-p {
+  text-align: center;
+  color: #475569;
+  font-size: 20px;
+}
+
+.msg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.registrations-closed > img {
+  width: 80%;
+  margin-bottom: 12px;
+}
+
+.registrations-closed > h1 {
+  font-size: 23px;
+  text-align: center;
+  color: #323f4b;
+  margin-bottom: 0px;
+}
+
+.registrations-closed > p {
+  width: 60%;
+  text-align: center;
+  color: #475569;
+}
+
+.registered > img {
+  width: 30%;
+}
+
+.registered > h1 {
+  text-align: center;
+  font-size: 22px;
+  margin-top: 30px;
+  color: #323f4b;
+}
+
+.yet-to-register > img {
+  width: 100%;
+}
+
+.yet-to-register > p {
+  text-align: center;
+  color: #64748b;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  font-size: 17px;
+}
+
+.yet-to-register > button {
+  width: 100%;
+  height: 40px;
+  font-size: 14px;
+  background-color: #0967d2;
+  border: none;
+  color: #f8fafc;
+  border-radius: 7px;
+  cursor: pointer;
+  outline: none;
+}
